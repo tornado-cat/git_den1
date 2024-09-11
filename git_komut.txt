@@ -1,0 +1,2 @@
+1 - yıldız master da ise : git checkout brench_adı
+2 - git branch ile branchlara bakılabilir
